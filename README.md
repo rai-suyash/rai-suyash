@@ -1,4 +1,12 @@
-## Hi there 👋
+# 👋 Greetings! I'm Suyash Rai
+
+## 🙋‍♂️ About Me
+
+## 🛠️ Technical Skills
+
+## 🖥️ Projects
+
+## 🌐 Connect With Me
 
 <!--
 **rai-suyash/rai-suyash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
