@@ -11,6 +11,7 @@ Development Tools: Git, Linux
 Frameworks/Libraries: Svelte, SvelteKit, .NET, pandas
 
 ## Currently Studying
+- Avalonia
 
 ## Projects
 ### Completed
