@@ -3,6 +3,9 @@
 ## About Me
 
 ## Technical Skills
+Languages: C#, Python, Java, Lua
+Development Tools: Git, Linux
+Frameworks/Libraries: Svelte, SvelteKit, .NET, pandas
 
 ## Currently Studying
 
