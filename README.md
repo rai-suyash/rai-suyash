@@ -16,6 +16,7 @@ Frameworks/Libraries: Svelte, SvelteKit, .NET, pandas
 - [Map Notes](https://github.com/rai-suyash/map-notes): Desktop app for procedural creation of radial trees containing notes
 
 ### Work in Progress
+- N/A
 
 ## Where to find me
 LinkedIn: https://www.linkedin.com/in/suyash-rai/
