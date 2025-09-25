@@ -1,7 +1,7 @@
 # Greetings! I'm Suyash Rai
 
 ## About Me
-An aspiring software developer keen on constructing unique apps for everyday uses. Currently working with Avalonia, a .NET UI framework to build perfomant, cross-platform apps.
+An aspiring software developer keen on constructing unique apps for everyday uses. Currently delving into Avalonia, a .NET UI framework to build perfomant, cross-platform apps.
 
 ## Technical Skills
 Languages: C#, Python, Java, Lua
