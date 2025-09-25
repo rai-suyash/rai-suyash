@@ -8,7 +8,7 @@ Languages: C#, Python, Java, Lua
 
 Development Tools: Git, Linux
 
-Frameworks/Libraries: Svelte, SvelteKit, .NET, pandas
+Frameworks/Libraries: Svelte, SvelteKit, .NET, pandas, SQLite
 
 ## Currently Learning
 - Avalonia
